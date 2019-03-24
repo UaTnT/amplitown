@@ -4,26 +4,27 @@ body {
 .Welcome{
     text-align: center;
     font-family:'Lobster Two', cursive;
+    letter-spacing: 2.5px
 
 }
 .info {
     -webkit-text-fill-color: chocolate;
-    font-family: 'Lalezar', cursive;
+    font-family: 'Baloo Chettan', cursive;
 }
 .info1 {
     -webkit-text-fill-color: darkcyan;
-    font-family: 'Lalezar', cursive;
+    font-family: 'Baloo Chettan', cursive;
 }
 .info2 {
     -webkit-text-fill-color: rgb(214, 39, 39);
-    font-family: 'Lalezar', cursive;
-     
+    font-family: 'Baloo Chettan', cursive;
 }
 .Welcome {
     -webkit-text-fill-color: blue
 }
 .yellow {
-    background-color: gold
+    border: 0.1px solid;
+    background-color: gold;
 }
 .white {
     -webkit-text-fill-color: white;
