@@ -7,13 +7,17 @@ body {
 
 }
 .info {
-    -webkit-text-fill-color: chocolate
+    -webkit-text-fill-color: chocolate;
+    font-family: 'Lalezar', cursive;
 }
 .info1 {
-    -webkit-text-fill-color: darkcyan
+    -webkit-text-fill-color: darkcyan;
+    font-family: 'Lalezar', cursive;
 }
 .info2 {
-    -webkit-text-fill-color: rgb(214, 39, 39)
+    -webkit-text-fill-color: rgb(214, 39, 39);
+    font-family: 'Lalezar', cursive;
+     
 }
 .Welcome {
     -webkit-text-fill-color: blue
@@ -22,7 +26,8 @@ body {
     background-color: gold
 }
 .white {
-    -webkit-text-fill-color: white
+    -webkit-text-fill-color: white;
+    font-family: 'Special Elite', cursive;
 }
 .yellow {
     text-align: center
