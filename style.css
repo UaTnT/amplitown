@@ -3,21 +3,21 @@ body {
 }
 .Welcome{
     text-align: center;
-    font-family:'Lobster Two', cursive;
+    font-family:'Germania One', cursive;
     letter-spacing: 2.5px
 
 }
 .info {
     -webkit-text-fill-color: chocolate;
-    font-family: 'Baloo Chettan', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .info1 {
     -webkit-text-fill-color: darkcyan;
-    font-family: 'Baloo Chettan', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .info2 {
     -webkit-text-fill-color: rgb(214, 39, 39);
-    font-family: 'Baloo Chettan', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .Welcome {
     -webkit-text-fill-color: blue
